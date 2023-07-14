@@ -10,11 +10,12 @@ You should have received a copy of the license along with this work. If not, see
 
 Over and above the legal restrictions imposed by this license, if you use this software for an academic publication then you are obliged to provide proper attribution. This can be to this code directly,
 
-        
+	Florian Spieckermann (2023). spieckermann/contrastfactor: Contrastfactor 9.0.3 (v9.0.3). Zenodo. https://doi.org/10.5281/zenodo.8146313
+	
+	
+and to the PhD thesis that describes it
 
-    and to the PhD thesis that describes it
-
-        https://doi.org/10.25365/thesis.12708.
+	https://doi.org/10.25365/thesis.12708.
 
    
 

@@ -1,7 +1,8 @@
 #! /usr/bin/octave -qf
 #Calculation of Contrast Factor for arbitrary symetry materials
 #See Martinez-Garcia 2009,Acta Cryst A65 pp 109-119 and related
-#Version 9.0.2
+#Version 9.0.3
+#2023/07/14
 
 #Published under CC by 4.0
 #
@@ -10,6 +11,7 @@
 #scalars are in  lower case, vectors and tensors upper case
 
 # please refer to https://doi.org/10.25365/thesis.12708
+#and to  DOI: 10.5281/zenodo.8146313 ( latest DOI  https://zenodo.org/badge/latestdoi/666299173)
 
 #set as script
 1;
