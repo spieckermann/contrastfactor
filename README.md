@@ -1,0 +1,21 @@
+#Calculation of Contrast Factor for arbitrary symetry materials
+#See Martinez-Garcia 2009,Acta Cryst A65 pp 109-119 and related
+#Version 9.0.2
+#
+#Usage: Edit Material in the appropriate file 'material.m' then run as:-> contrastfactor.m material
+
+This code is © Florian Spieckermann, and it is made available under the Creative Commons Attribution 4.0 International License. CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/legalcode).
+
+You should have received a copy of the license along with this work. If not, see <http://creativecommons.org/licenses/by/4.0/>.
+
+Over and above the legal restrictions imposed by this license, if you use this software for an academic publication then you are obliged to provide proper attribution. This can be to this code directly,
+
+        
+
+    or to the PhD thesis that describes it
+
+        https://doi.org/10.25365/thesis.12708.
+
+    or (ideally) both.
+
+
