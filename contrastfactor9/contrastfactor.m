@@ -2,10 +2,14 @@
 #Calculation of Contrast Factor for arbitrary symetry materials
 #See Martinez-Garcia 2009,Acta Cryst A65 pp 109-119 and related
 #Version 9.0.2
+
+#Published under CC by 4.0
 #
 #Usage: Edit Material in the appropriate file 'material.m' then run as:-> contrastfactor.m material
 #
 #scalars are in  lower case, vectors and tensors upper case
+
+# please refer to https://doi.org/10.25365/thesis.12708
 
 #set as script
 1;
