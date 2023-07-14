@@ -1,0 +1,65 @@
+# Created by Octave 4.2.2, Fri Aug 09 11:00:42 2019 CEST <f_spieckermann@MUL-12-linux>
+# name: diffr_vector_matrix
+# type: matrix
+# rows: 9
+# columns: 3
+ 1 1 0
+ 0 4 0
+ 1 3 0
+ 1 1 1
+ 1 3 -1
+ 0 4 1
+ 0 6 0
+ 1 3 1
+ 0 2 1
+
+
+# name: twotheta
+# type: matrix
+# rows: 9
+# columns: 1
+ 14.1441383510464
+ 16.92214242717873
+ 18.55211661634048
+ 21.31021025572477
+ 21.82947141224131
+ 21.90519960669771
+ 25.50101884399364
+ 24.49781777269405
+ 16.20352386018419
+
+
+# name: hkl_matrix
+# type: matrix
+# rows: 1
+# columns: 3
+ 0 1 0
+
+
+# name: uvw_matrix
+# type: matrix
+# rows: 1
+# columns: 3
+ 0 0 1
+
+
+# name: disltype_matrix
+# type: scalar
+0
+
+
+# name: CF
+# type: matrix
+# rows: 9
+# columns: 1
+ 0.01042042742220964
+ 0.005525503702835132
+ 0.003119319582168013
+ 0.2236486800522777
+ 0.2352805050601566
+ 0.2221344892085245
+ 0.005525503702835132
+ 0.2110916847051646
+ 0.1932549762070527
+
+
