@@ -12,10 +12,10 @@ Over and above the legal restrictions imposed by this license, if you use this s
 
         
 
-    or to the PhD thesis that describes it
+    and to the PhD thesis that describes it
 
         https://doi.org/10.25365/thesis.12708.
 
-    or (ideally) both.
+   
 
 
